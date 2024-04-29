@@ -5,4 +5,3 @@ A good action that makes a difference is the forget function that if you forgot 
 
 **Requirements**
 We just need the math module but for a little better clarification I used the os module to clear our bench to have a good experience and sense.
-﻿# Bank-System-Management
