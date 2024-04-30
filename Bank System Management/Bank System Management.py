@@ -251,4 +251,5 @@ def exit():
 # in or '2' for logging in. Depending on the user's choice, it calls the 'signin()' function if '1' is
 # selected or the 'login()' function if '2' is selected. If an invalid option is entered, it prompts
 # the user that the option is not available and recursively calls 'mainmenu()' again.
-mainmenu()
+if __name__ == '__main__':
+    mainmenu()
